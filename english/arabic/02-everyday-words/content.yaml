@@ -1,0 +1,83 @@
+version: 1
+number: 2
+title: "Everyday Words"
+description: "Basic words for daily life – opposites, colors, and family members"
+sections:
+  - title: "Yes, No, and Opposites"
+    explanation: |
+      **Basic opposites** are essential for making yourself understood in Arabic.
+      "نعم" (naʿam) means "Yes" and "لا" (lā) means "No."
+      These simple words help you respond to questions immediately.
+    examples:
+      - q: "نعم"
+        a: "Yes"
+        rel:
+          - ["نعم", "Yes", "affirmation"]
+      - q: "لا"
+        a: "No"
+        rel:
+          - ["لا", "No", "negation"]
+      - q: "كبير"
+        a: "big"
+        rel:
+          - ["كبير", "big", "adjective, opposite of صغير"]
+      - q: "صغير"
+        a: "small"
+        rel:
+          - ["صغير", "small", "adjective, opposite of كبير"]
+      - q: "جديد"
+        a: "new"
+        rel:
+          - ["جديد", "new", "adjective, opposite of قديم"]
+  - title: "Colors"
+    explanation: |
+      **Colors** in Arabic have different forms depending on gender.
+      Here you will learn the masculine base form of the most important colors.
+      The feminine form will be covered in later lessons.
+    examples:
+      - q: "أبيض"
+        a: "white"
+        rel:
+          - ["أبيض", "white", "color, masculine form"]
+      - q: "أسود"
+        a: "black"
+        rel:
+          - ["أسود", "black", "color, masculine form"]
+      - q: "أحمر"
+        a: "red"
+        rel:
+          - ["أحمر", "red", "color, masculine form"]
+      - q: "أزرق"
+        a: "blue"
+        rel:
+          - ["أزرق", "blue", "color, masculine form"]
+      - q: "أخضر"
+        a: "green"
+        rel:
+          - ["أخضر", "green", "color, masculine form"]
+  - title: "Family Members"
+    explanation: |
+      **Family** (الأسرة) holds a very high status in Arabic culture.
+      It is therefore particularly useful to know the terms for family members.
+      Note that Arabic has specific words for many family relationships.
+    examples:
+      - q: "أب"
+        a: "father"
+        rel:
+          - ["أب", "father", "family member"]
+      - q: "أم"
+        a: "mother"
+        rel:
+          - ["أم", "mother", "family member"]
+      - q: "ابن"
+        a: "son"
+        rel:
+          - ["ابن", "son", "family member"]
+      - q: "ابنة"
+        a: "daughter"
+        rel:
+          - ["ابنة", "daughter", "family member"]
+      - q: "أخ"
+        a: "brother"
+        rel:
+          - ["أخ", "brother", "family member"]

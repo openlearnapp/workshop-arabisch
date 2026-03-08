@@ -1,0 +1,88 @@
+version: 1
+number: 4
+title: "Food and Shopping"
+description: "Arabic vocabulary for food, ordering at restaurants, and shopping"
+sections:
+  - title: "Food Items"
+    explanation: |
+      **Arabic cuisine** is rich and diverse. From flatbread (خبز) to spices –
+      food plays a central role in Arabic culture.
+      Here you will learn the most important words for food items.
+    examples:
+      - q: "خبز"
+        a: "bread"
+        rel:
+          - ["خبز", "bread", "staple food"]
+      - q: "ماء"
+        a: "water"
+        rel:
+          - ["ماء", "water", "drink"]
+      - q: "أرز"
+        a: "rice"
+        rel:
+          - ["أرز", "rice", "staple food"]
+      - q: "دجاج"
+        a: "chicken"
+        rel:
+          - ["دجاج", "chicken", "meat"]
+      - q: "فاكهة"
+        a: "fruit"
+        rel:
+          - ["فاكهة", "fruit", "food category"]
+  - title: "Ordering at a Restaurant"
+    explanation: |
+      **At a restaurant** (في المطعم), being able to order in Arabic is very practical.
+      The phrase "أريد" (urīdu) means "I want" and is the key to ordering.
+      Combine this phrase with food items from the previous section.
+    examples:
+      - q: "أريد القائمة، من فضلك"
+        a: "I would like the menu, please"
+        rel:
+          - ["أريد", "I want", "verb, very useful for ordering"]
+          - ["القائمة", "the menu", "noun"]
+      - q: "أريد ماء، من فضلك"
+        a: "I would like water, please"
+        rel:
+          - ["أريد", "I want", "verb"]
+          - ["ماء", "water", "drink"]
+      - q: "الحساب، من فضلك"
+        a: "The bill, please"
+        rel:
+          - ["الحساب", "the bill", "noun"]
+      - q: "هذا لذيذ"
+        a: "This is delicious"
+        rel:
+          - ["هذا", "this", "demonstrative pronoun"]
+          - ["لذيذ", "delicious", "adjective"]
+      - q: "هل عندكم طعام حلال؟"
+        a: "Do you have halal food?"
+        rel:
+          - ["هل", "question particle", "introduces a yes/no question"]
+          - ["عندكم", "you have", "possession expression"]
+          - ["طعام حلال", "halal food", "permissible food according to Islamic law"]
+  - title: "Shopping and Prices"
+    explanation: |
+      **Shopping** (التسوق) at an Arabic market (سوق) is a special experience.
+      Bargaining is part of the shopping culture in many Arab countries.
+      With these expressions, you can ask about prices and negotiate.
+    examples:
+      - q: "بكم هذا؟"
+        a: "How much does this cost?"
+        rel:
+          - ["بكم", "how much / for how much", "price question"]
+          - ["هذا", "this", "demonstrative pronoun"]
+      - q: "هذا غالي جدا"
+        a: "This is very expensive"
+        rel:
+          - ["غالي", "expensive", "adjective"]
+          - ["جدا", "very", "intensifier"]
+      - q: "هل يوجد تخفيض؟"
+        a: "Is there a discount?"
+        rel:
+          - ["يوجد", "there is", "existence expression"]
+          - ["تخفيض", "discount / reduction", "noun"]
+      - q: "أريد هذا"
+        a: "I want this"
+        rel:
+          - ["أريد", "I want", "verb"]
+          - ["هذا", "this", "demonstrative pronoun"]

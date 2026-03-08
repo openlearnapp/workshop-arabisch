@@ -1,0 +1,79 @@
+version: 1
+number: 3
+title: "Numbers and Time"
+description: "Arabic numbers from 1 to 20, days of the week, and useful time expressions"
+sections:
+  - title: "Numbers 1 to 10"
+    explanation: |
+      **Arabic numbers** (الأرقام) are known worldwide – our "Arabic numerals" originally come from Arabic.
+      In modern Standard Arabic, both Eastern and Western numerals are used.
+      Here you will learn the written-out numbers from 1 to 10.
+    examples:
+      - q: "واحد"
+        a: "one (1)"
+        rel:
+          - ["واحد", "one", "number 1"]
+      - q: "اثنان"
+        a: "two (2)"
+        rel:
+          - ["اثنان", "two", "number 2"]
+      - q: "ثلاثة"
+        a: "three (3)"
+        rel:
+          - ["ثلاثة", "three", "number 3"]
+      - q: "أربعة"
+        a: "four (4)"
+        rel:
+          - ["أربعة", "four", "number 4"]
+      - q: "خمسة"
+        a: "five (5)"
+        rel:
+          - ["خمسة", "five", "number 5"]
+  - title: "Numbers 11 to 20"
+    explanation: |
+      **The numbers 11 to 20** in Arabic follow their own pattern.
+      The numbers 11 and 12 are special forms, while 13 to 19 are composed of the unit number and the word "عشر" (ten).
+      The number 20 has its own form again: "عشرون."
+    examples:
+      - q: "أحد عشر"
+        a: "eleven (11)"
+        rel:
+          - ["أحد عشر", "eleven", "number 11"]
+      - q: "اثنا عشر"
+        a: "twelve (12)"
+        rel:
+          - ["اثنا عشر", "twelve", "number 12"]
+      - q: "خمسة عشر"
+        a: "fifteen (15)"
+        rel:
+          - ["خمسة عشر", "fifteen", "number 15"]
+      - q: "عشرون"
+        a: "twenty (20)"
+        rel:
+          - ["عشرون", "twenty", "number 20"]
+  - title: "Days of the Week and Time Expressions"
+    explanation: |
+      **The days of the week** in Arabic traditionally start with Sunday (الأحد).
+      Many day names are derived from Arabic numbers.
+      Time expressions like "today," "tomorrow," and "yesterday" are indispensable in daily life.
+    examples:
+      - q: "الاثنين"
+        a: "Monday"
+        rel:
+          - ["الاثنين", "Monday", "day of the week, derived from اثنان (two)"]
+      - q: "الجمعة"
+        a: "Friday"
+        rel:
+          - ["الجمعة", "Friday", "day of the week, day of congregational prayer"]
+      - q: "اليوم"
+        a: "today"
+        rel:
+          - ["اليوم", "today", "time expression"]
+      - q: "غدا"
+        a: "tomorrow"
+        rel:
+          - ["غدا", "tomorrow", "time expression"]
+      - q: "أمس"
+        a: "yesterday"
+        rel:
+          - ["أمس", "yesterday", "time expression"]

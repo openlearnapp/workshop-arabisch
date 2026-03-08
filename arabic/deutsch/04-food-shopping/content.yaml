@@ -1,0 +1,84 @@
+version: 1
+number: 4
+title: "الطعام والتسوق"
+description: "مفردات ألمانية عن الطعام والطلب في المطعم والتسوق"
+sections:
+  - title: "المواد الغذائية"
+    explanation: |
+      **المطبخ الألماني** متنوع وغني.
+      هنا ستتعلم أهم الكلمات المتعلقة بالطعام باللغة الألمانية.
+    examples:
+      - q: "das Brot"
+        a: "الخبز"
+        rel:
+          - ["das Brot", "الخبز", "غذاء أساسي"]
+      - q: "das Wasser"
+        a: "الماء"
+        rel:
+          - ["das Wasser", "الماء", "مشروب"]
+      - q: "der Reis"
+        a: "الأرز"
+        rel:
+          - ["der Reis", "الأرز", "غذاء أساسي"]
+      - q: "das Hähnchen"
+        a: "الدجاج"
+        rel:
+          - ["das Hähnchen", "الدجاج", "لحوم"]
+      - q: "das Obst"
+        a: "الفاكهة"
+        rel:
+          - ["das Obst", "الفاكهة", "فئة غذائية"]
+  - title: "الطلب في المطعم"
+    explanation: |
+      **في المطعم** (im Restaurant) القدرة على الطلب بالألمانية مفيدة جدًا.
+      عبارة "Ich möchte" (أريد) هي المفتاح للطلب.
+    examples:
+      - q: "Die Speisekarte, bitte"
+        a: "قائمة الطعام، من فضلك"
+        rel:
+          - ["die Speisekarte", "قائمة الطعام", "اسم"]
+          - ["bitte", "من فضلك", "عبارة مهذبة"]
+      - q: "Ich möchte Wasser, bitte"
+        a: "أريد ماء، من فضلك"
+        rel:
+          - ["Ich möchte", "أريد", "فعل"]
+          - ["Wasser", "ماء", "مشروب"]
+      - q: "Die Rechnung, bitte"
+        a: "الحساب، من فضلك"
+        rel:
+          - ["die Rechnung", "الحساب", "اسم"]
+      - q: "Das ist lecker"
+        a: "هذا لذيذ"
+        rel:
+          - ["Das", "هذا", "ضمير إشارة"]
+          - ["lecker", "لذيذ", "صفة"]
+      - q: "Haben Sie Halal-Essen?"
+        a: "هل عندكم طعام حلال؟"
+        rel:
+          - ["Haben Sie", "هل عندكم", "سؤال عن التوفر"]
+          - ["Halal-Essen", "طعام حلال", "طعام مباح"]
+  - title: "التسوق والأسعار"
+    explanation: |
+      **التسوق** (Einkaufen) في ألمانيا له آدابه الخاصة.
+      هذه العبارات تساعدك على السؤال عن الأسعار والتسوق.
+    examples:
+      - q: "Wie viel kostet das?"
+        a: "بكم هذا؟"
+        rel:
+          - ["Wie viel", "كم", "سؤال عن السعر"]
+          - ["kostet", "يكلف", "فعل"]
+      - q: "Das ist sehr teuer"
+        a: "هذا غالي جدًا"
+        rel:
+          - ["teuer", "غالي", "صفة"]
+          - ["sehr", "جدًا", "كلمة تأكيد"]
+      - q: "Gibt es einen Rabatt?"
+        a: "هل يوجد تخفيض؟"
+        rel:
+          - ["Gibt es", "هل يوجد", "سؤال عن التوفر"]
+          - ["Rabatt", "تخفيض", "اسم"]
+      - q: "Ich möchte das"
+        a: "أريد هذا"
+        rel:
+          - ["Ich möchte", "أريد", "فعل"]
+          - ["das", "هذا", "ضمير إشارة"]

@@ -1,0 +1,85 @@
+version: 1
+number: 5
+title: "السفر والاتجاهات"
+description: "عبارات مفيدة للسفر والاتجاهات ووسائل النقل بالألمانية"
+sections:
+  - title: "الاتجاهات"
+    explanation: |
+      **فهم الاتجاهات** بالألمانية مفيد جدًا عند السفر في ألمانيا.
+      الاتجاهات الأساسية "يمين" (rechts) و"يسار" (links) و"مباشرة" (geradeaus) ضرورية.
+    examples:
+      - q: "Wo ist der Flughafen?"
+        a: "أين المطار؟"
+        rel:
+          - ["Wo", "أين", "كلمة استفهام للأماكن"]
+          - ["der Flughafen", "المطار", "اسم"]
+      - q: "rechts"
+        a: "يمين"
+        rel:
+          - ["rechts", "يمين", "اتجاه"]
+      - q: "links"
+        a: "يسار"
+        rel:
+          - ["links", "يسار", "اتجاه"]
+      - q: "geradeaus"
+        a: "مباشرة / إلى الأمام"
+        rel:
+          - ["geradeaus", "مباشرة", "اتجاه"]
+      - q: "Ist es weit?"
+        a: "هل هو بعيد؟"
+        rel:
+          - ["weit", "بعيد", "صفة"]
+  - title: "وسائل النقل"
+    explanation: |
+      **معرفة وسائل النقل** (Verkehrsmittel) تسهل السفر كثيرًا.
+      ألمانيا لديها شبكة مواصلات عامة ممتازة.
+    examples:
+      - q: "das Taxi"
+        a: "سيارة أجرة"
+        rel:
+          - ["das Taxi", "سيارة أجرة", "وسيلة نقل"]
+      - q: "der Bus"
+        a: "الحافلة"
+        rel:
+          - ["der Bus", "الحافلة", "وسيلة نقل"]
+      - q: "der Zug"
+        a: "القطار"
+        rel:
+          - ["der Zug", "القطار", "وسيلة نقل"]
+      - q: "der Bahnhof"
+        a: "محطة القطار"
+        rel:
+          - ["der Bahnhof", "محطة القطار", "اسم"]
+      - q: "die Fahrkarte"
+        a: "تذكرة السفر"
+        rel:
+          - ["die Fahrkarte", "تذكرة السفر", "اسم"]
+  - title: "عبارات سفر مفيدة"
+    explanation: |
+      **عبارات السفر** تساعدك على التعامل مع المواقف اليومية.
+      سواء كنت تسأل عن الطريق أو تحجز غرفة فندق أو تحتاج مساعدة.
+    examples:
+      - q: "Ich brauche Hilfe"
+        a: "أحتاج مساعدة"
+        rel:
+          - ["Ich brauche", "أحتاج", "فعل"]
+          - ["Hilfe", "مساعدة", "اسم"]
+      - q: "Wo ist das Hotel?"
+        a: "أين الفندق؟"
+        rel:
+          - ["Wo", "أين", "كلمة استفهام"]
+          - ["das Hotel", "الفندق", "اسم"]
+      - q: "Ich möchte ein Zimmer"
+        a: "أريد غرفة"
+        rel:
+          - ["Ich möchte", "أريد", "فعل"]
+          - ["ein Zimmer", "غرفة", "اسم"]
+      - q: "der Reisepass"
+        a: "جواز السفر"
+        rel:
+          - ["der Reisepass", "جواز السفر", "اسم"]
+      - q: "Wo ist die Toilette?"
+        a: "أين دورة المياه؟"
+        rel:
+          - ["Wo", "أين", "كلمة استفهام"]
+          - ["die Toilette", "دورة المياه", "اسم"]

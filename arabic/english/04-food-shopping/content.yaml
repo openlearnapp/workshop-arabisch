@@ -1,0 +1,84 @@
+version: 1
+number: 4
+title: "الطعام والتسوق"
+description: "مفردات إنجليزية عن الطعام والطلب في المطعم والتسوق"
+sections:
+  - title: "المواد الغذائية"
+    explanation: |
+      **الطعام** موضوع مهم في أي لغة.
+      هنا ستتعلم أهم الكلمات المتعلقة بالطعام باللغة الإنجليزية.
+    examples:
+      - q: "bread"
+        a: "خبز"
+        rel:
+          - ["bread", "خبز", "غذاء أساسي"]
+      - q: "water"
+        a: "ماء"
+        rel:
+          - ["water", "ماء", "مشروب"]
+      - q: "rice"
+        a: "أرز"
+        rel:
+          - ["rice", "أرز", "غذاء أساسي"]
+      - q: "chicken"
+        a: "دجاج"
+        rel:
+          - ["chicken", "دجاج", "لحوم"]
+      - q: "fruit"
+        a: "فاكهة"
+        rel:
+          - ["fruit", "فاكهة", "فئة غذائية"]
+  - title: "الطلب في المطعم"
+    explanation: |
+      **في المطعم** (at the restaurant) القدرة على الطلب بالإنجليزية مفيدة جدًا.
+      عبارة "I would like" (أريد) هي الطريقة المهذبة للطلب.
+    examples:
+      - q: "The menu, please"
+        a: "قائمة الطعام، من فضلك"
+        rel:
+          - ["menu", "قائمة الطعام", "اسم"]
+          - ["please", "من فضلك", "عبارة مهذبة"]
+      - q: "I would like water, please"
+        a: "أريد ماء، من فضلك"
+        rel:
+          - ["I would like", "أريد", "طلب مهذب"]
+          - ["water", "ماء", "مشروب"]
+      - q: "The bill, please"
+        a: "الحساب، من فضلك"
+        rel:
+          - ["the bill", "الحساب", "اسم"]
+      - q: "This is delicious"
+        a: "هذا لذيذ"
+        rel:
+          - ["This", "هذا", "ضمير إشارة"]
+          - ["delicious", "لذيذ", "صفة"]
+      - q: "Do you have halal food?"
+        a: "هل عندكم طعام حلال؟"
+        rel:
+          - ["Do you have", "هل عندكم", "سؤال عن التوفر"]
+          - ["halal food", "طعام حلال", "طعام مباح"]
+  - title: "التسوق والأسعار"
+    explanation: |
+      **التسوق** (shopping) مهارة مفيدة في أي بلد.
+      هذه العبارات تساعدك على السؤال عن الأسعار والتسوق بالإنجليزية.
+    examples:
+      - q: "How much does this cost?"
+        a: "بكم هذا؟"
+        rel:
+          - ["How much", "كم", "سؤال عن السعر"]
+          - ["cost", "يكلف", "فعل"]
+      - q: "This is very expensive"
+        a: "هذا غالي جدًا"
+        rel:
+          - ["expensive", "غالي", "صفة"]
+          - ["very", "جدًا", "كلمة تأكيد"]
+      - q: "Is there a discount?"
+        a: "هل يوجد تخفيض؟"
+        rel:
+          - ["Is there", "هل يوجد", "سؤال عن التوفر"]
+          - ["discount", "تخفيض", "اسم"]
+      - q: "I want this"
+        a: "أريد هذا"
+        rel:
+          - ["I want", "أريد", "فعل"]
+          - ["this", "هذا", "ضمير إشارة"]

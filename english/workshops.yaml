@@ -1,0 +1,7 @@
+workshops:
+  - folder: arabic
+    code: ar-SA
+    title: "Arabic"
+    description: "5 lessons to learn the most important words and phrases in Arabic."
+    color: "150 40% 93%"
+    primaryColor: "150 65% 40%"

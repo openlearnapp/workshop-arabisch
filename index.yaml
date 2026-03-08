@@ -1,3 +1,7 @@
 languages:
   - folder: deutsch
     code: de-DE
+  - folder: english
+    code: en-US
+  - folder: arabic
+    code: ar-SA

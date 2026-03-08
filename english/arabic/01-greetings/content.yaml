@@ -1,0 +1,86 @@
+version: 1
+number: 1
+title: "Greetings and Politeness"
+description: "The most important greetings and polite expressions in Arabic"
+sections:
+  - title: "Greetings"
+    explanation: |
+      **Arabic greetings** are an important part of Arabic culture.
+      The most common greeting is "السلام عليكم" (as-salāmu ʿalaykum), meaning "Peace be upon you."
+      This greeting is used throughout the Arab world and is suitable for both formal and informal situations.
+    examples:
+      - q: "السلام عليكم"
+        a: "Peace be upon you (Hello)"
+        rel:
+          - ["السلام عليكم", "Peace be upon you", "the most important Arabic greeting"]
+      - q: "وعليكم السلام"
+        a: "And peace be upon you (Reply to السلام عليكم)"
+        rel:
+          - ["وعليكم السلام", "And peace be upon you", "the reply to the greeting"]
+      - q: "مرحبا"
+        a: "Welcome / Hello"
+        rel:
+          - ["مرحبا", "Welcome", "a friendly, universal greeting"]
+      - q: "صباح الخير"
+        a: "Good morning"
+        rel:
+          - ["صباح", "morning", "time of day"]
+          - ["الخير", "the good", "adjective in the greeting"]
+      - q: "مساء الخير"
+        a: "Good evening"
+        rel:
+          - ["مساء", "evening", "time of day"]
+          - ["الخير", "the good", "adjective in the greeting"]
+  - title: "Polite Expressions"
+    explanation: |
+      **Politeness** plays a big role in Arabic culture.
+      It is important to know basic polite expressions to show respect and friendliness.
+      The word "شكرا" (shukran) is used very frequently and is easy to remember.
+    examples:
+      - q: "شكرا"
+        a: "Thank you"
+        rel:
+          - ["شكرا", "Thank you", "the most common expression of gratitude"]
+      - q: "من فضلك"
+        a: "Please (when asking for something)"
+        rel:
+          - ["من فضلك", "Please", "polite request to a person"]
+      - q: "عفوا"
+        a: "Excuse me / You're welcome"
+        rel:
+          - ["عفوا", "Excuse me", "also used as a reply to Thank you"]
+      - q: "كيف حالك؟"
+        a: "How are you?"
+        rel:
+          - ["كيف", "how", "question word"]
+          - ["حالك", "your condition", "refers to well-being"]
+      - q: "بخير، الحمد لله"
+        a: "Fine, thank God"
+        rel:
+          - ["بخير", "fine / well", "state description"]
+          - ["الحمد لله", "thank God", "common expression of gratitude"]
+  - title: "Farewell"
+    explanation: |
+      **Farewells** in Arabic are often warm and heartfelt.
+      The most common farewell is "مع السلامة" (maʿa s-salāma), which literally means "with peace."
+    examples:
+      - q: "مع السلامة"
+        a: "Goodbye (with peace)"
+        rel:
+          - ["مع", "with", "preposition"]
+          - ["السلامة", "peace / safety", "noun"]
+      - q: "إلى اللقاء"
+        a: "Until next time"
+        rel:
+          - ["إلى", "until", "preposition"]
+          - ["اللقاء", "the meeting", "noun"]
+      - q: "تصبح على خير"
+        a: "Good night"
+        rel:
+          - ["تصبح", "you become", "verb"]
+          - ["على خير", "upon goodness", "well-wishing phrase"]
+      - q: "أراك لاحقا"
+        a: "See you later"
+        rel:
+          - ["أراك", "I see you", "verb with pronoun"]
+          - ["لاحقا", "later", "time adverb"]

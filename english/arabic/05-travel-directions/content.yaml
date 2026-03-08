@@ -1,0 +1,92 @@
+version: 1
+number: 5
+title: "Travel and Directions"
+description: "Useful expressions for travel, directions, and transportation in Arabic"
+sections:
+  - title: "Directions"
+    explanation: |
+      **Understanding directions** in Arabic is especially helpful when traveling in an Arab country.
+      The basic directions "right" (يمين), "left" (يسار), and "straight ahead" (مباشرة) are essential.
+    examples:
+      - q: "أين المطار؟"
+        a: "Where is the airport?"
+        rel:
+          - ["أين", "where", "question word for places"]
+          - ["المطار", "the airport", "noun"]
+      - q: "على اليمين"
+        a: "right / on the right side"
+        rel:
+          - ["على", "on", "preposition"]
+          - ["اليمين", "right", "direction"]
+      - q: "على اليسار"
+        a: "left / on the left side"
+        rel:
+          - ["على", "on", "preposition"]
+          - ["اليسار", "left", "direction"]
+      - q: "مباشرة"
+        a: "straight ahead"
+        rel:
+          - ["مباشرة", "straight ahead / directly", "direction"]
+      - q: "هل هو بعيد؟"
+        a: "Is it far?"
+        rel:
+          - ["هل", "question particle", "introduces a yes/no question"]
+          - ["بعيد", "far", "adjective"]
+  - title: "Transportation"
+    explanation: |
+      **Knowing transportation** (وسائل النقل) terms makes traveling much easier.
+      In many Arab cities, taxis (سيارة أجرة) are a popular means of transport.
+      Here you will learn the most important terms related to transportation.
+    examples:
+      - q: "سيارة أجرة"
+        a: "taxi"
+        rel:
+          - ["سيارة", "car", "noun"]
+          - ["أجرة", "fare / fee", "noun"]
+      - q: "حافلة"
+        a: "bus"
+        rel:
+          - ["حافلة", "bus", "transportation"]
+      - q: "قطار"
+        a: "train"
+        rel:
+          - ["قطار", "train", "transportation"]
+      - q: "محطة"
+        a: "station"
+        rel:
+          - ["محطة", "station", "noun"]
+      - q: "تذكرة"
+        a: "ticket"
+        rel:
+          - ["تذكرة", "ticket", "noun"]
+  - title: "Useful Travel Expressions"
+    explanation: |
+      **Travel expressions** help you navigate everyday situations.
+      Whether you are asking for directions, booking a hotel room, or need help –
+      these sentences are your most important companions while traveling.
+    examples:
+      - q: "أحتاج مساعدة"
+        a: "I need help"
+        rel:
+          - ["أحتاج", "I need", "verb"]
+          - ["مساعدة", "help", "noun"]
+      - q: "أين الفندق؟"
+        a: "Where is the hotel?"
+        rel:
+          - ["أين", "where", "question word"]
+          - ["الفندق", "the hotel", "noun"]
+      - q: "أريد غرفة"
+        a: "I want a room"
+        rel:
+          - ["أريد", "I want", "verb"]
+          - ["غرفة", "room", "noun"]
+      - q: "جواز السفر"
+        a: "passport"
+        rel:
+          - ["جواز", "pass / permit", "noun"]
+          - ["السفر", "travel", "noun"]
+      - q: "أين دورة المياه؟"
+        a: "Where is the restroom?"
+        rel:
+          - ["أين", "where", "question word"]
+          - ["دورة المياه", "restroom (literally: water cycle)", "polite expression"]
