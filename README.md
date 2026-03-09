@@ -1,6 +1,6 @@
 # Workshop: Arabisch lernen
 
-> **[🌐 Landing Page](https://open-learn.app/workshop-arabisch/)** · **[🚀 Workshop starten](https://open-learn.app/#/add?source=https://open-learn.app/workshop-arabisch)**
+> **[🌐 Landing Page](https://open-learn.app/workshop-arabisch/)** · **[🚀 Start Workshop](https://open-learn.app/#/add?source=https://open-learn.app/workshop-arabisch)**
 
 5 Lektionen zum Erlernen der wichtigsten Wörter und Ausdrücke auf Arabisch. Available in German, English, and Arabic interfaces.
 
