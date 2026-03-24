@@ -1,0 +1,91 @@
+version: 1
+number: 10
+title: "Gefühle und Meinungen"
+description: "Emotionen ausdrücken und Meinungen äußern — für tiefere Gespräche auf Arabisch"
+sections:
+  - title: "Gefühle und Emotionen"
+    explanation: |
+      **Gefühle** (المشاعر - al-mashāʿir) offen auszudrücken ist in der arabischen Kultur durchaus üblich.
+      Arabisch ist eine reiche Sprache für Emotionen — es gibt viele Worte für Liebe, Sehnsucht und Freude.
+      „حبيبي" (mein Geliebter / mein Schatz) ist z.B. ein sehr häufiger Ausdruck der Zuneigung.
+    examples:
+      - q: "أنا سعيد"
+        a: "Ich bin glücklich / froh"
+        rel:
+          - ["سعيد", "glücklich / froh", "Adjektiv"]
+      - q: "أنا حزين"
+        a: "Ich bin traurig"
+        rel:
+          - ["حزين", "traurig", "Adjektiv"]
+      - q: "أنا خائف"
+        a: "Ich habe Angst / Ich bin ängstlich"
+        rel:
+          - ["خائف", "ängstlich / verängstigt", "Adjektiv"]
+      - q: "أنا متحمس"
+        a: "Ich bin begeistert"
+        rel:
+          - ["متحمس", "begeistert / enthusiastisch", "Adjektiv"]
+      - q: "أشعر بالحنين"
+        a: "Ich fühle Heimweh / Nostalgie"
+        rel:
+          - ["الحنين", "Heimweh / Nostalgie / Sehnsucht", "tiefes arabisches Gefühl"]
+      - q: "أحبك"
+        a: "Ich liebe dich"
+        rel:
+          - ["أحبك", "ich liebe dich", "Liebesausdruck"]
+  - title: "Meinungen äußern"
+    explanation: |
+      **Eine Meinung zu äußern** (إبداء الرأي - ibdāʾ ar-raʾy) ist eine wichtige Kommunikationsfertigkeit.
+      Im arabischen Gespräch ist es höflich, zuerst dem anderen zuzustimmen, bevor man widerspricht.
+      Ausdrücke wie „في رأيي" (meiner Meinung nach) leiten Meinungen höflich ein.
+    examples:
+      - q: "في رأيي"
+        a: "Meiner Meinung nach"
+        rel:
+          - ["في رأيي", "meiner Meinung nach", "Meinungsausdruck"]
+          - ["رأيي", "meine Meinung", "Substantiv mit Pronomen"]
+      - q: "أعتقد أن..."
+        a: "Ich denke, dass..."
+        rel:
+          - ["أعتقد", "ich denke / glaube", "Verb"]
+      - q: "أوافق"
+        a: "Ich stimme zu"
+        rel:
+          - ["أوافق", "ich stimme zu", "Verb"]
+      - q: "لا أوافق"
+        a: "Ich stimme nicht zu"
+        rel:
+          - ["لا أوافق", "ich stimme nicht zu", "Verneinung"]
+      - q: "هذا صحيح"
+        a: "Das stimmt / Das ist richtig"
+        rel:
+          - ["صحيح", "richtig / korrekt", "Adjektiv"]
+  - title: "Vorlieben und Wünsche"
+    explanation: |
+      **Vorlieben** (التفضيلات - at-tafḍīlāt) und Wünsche auszudrücken verbindet Menschen.
+      „إن شاء الله" (so Gott will / hoffentlich) ist vielleicht der bekannteste arabische Ausdruck überhaupt —
+      er spiegelt eine tiefe Lebenseinstellung wider und wird in vielen Kontexten verwendet.
+    examples:
+      - q: "أحب القهوة"
+        a: "Ich mag Kaffee"
+        rel:
+          - ["أحب", "ich mag / liebe", "Verb"]
+          - ["القهوة", "der Kaffee", "Getränk"]
+      - q: "لا أحب الحر"
+        a: "Ich mag die Hitze nicht"
+        rel:
+          - ["لا أحب", "ich mag nicht", "Verneinung"]
+          - ["الحر", "die Hitze", "Substantiv"]
+      - q: "أفضِّل..."
+        a: "Ich bevorzuge..."
+        rel:
+          - ["أفضِّل", "ich bevorzuge", "Verb"]
+      - q: "أتمنى أن أسافر"
+        a: "Ich wünsche mir zu reisen"
+        rel:
+          - ["أتمنى", "ich wünsche mir", "Verb"]
+          - ["أسافر", "ich reise", "Verb"]
+      - q: "إن شاء الله"
+        a: "So Gott will / Hoffentlich"
+        rel:
+          - ["إن شاء الله", "so Gott will", "kultureller Schlüsselausdruck"]

@@ -1,0 +1,95 @@
+version: 1
+number: 6
+title: "Family and Home"
+description: "Essential vocabulary for family, relatives, and life at home in Arabic"
+sections:
+  - title: "Family Members"
+    explanation: |
+      **The family** (العائلة - al-ʿāʾila) holds a central place in Arab culture.
+      Extended families often live together or in close proximity, and family ties are incredibly strong.
+      Arabic sometimes distinguishes between relatives on the **paternal and maternal sides** of the family.
+    examples:
+      - q: "أب"
+        a: "Father"
+        rel:
+          - ["أب-en", "Father", "family relationship"]
+      - q: "أم"
+        a: "Mother"
+        rel:
+          - ["أم-en", "Mother", "family relationship"]
+      - q: "أخ"
+        a: "Brother"
+        rel:
+          - ["أخ-en", "Brother", "siblings"]
+      - q: "أخت"
+        a: "Sister"
+        rel:
+          - ["أخت-en", "Sister", "siblings"]
+      - q: "جد"
+        a: "Grandfather"
+        rel:
+          - ["جد-en", "Grandfather", "older generation"]
+      - q: "جدة"
+        a: "Grandmother"
+        rel:
+          - ["جدة-en", "Grandmother", "older generation"]
+  - title: "At Home"
+    explanation: |
+      **The home** (البيت - al-bayt) is a place of warmth and hospitality in Arab culture.
+      Guests are always welcomed generously — "البيت بيتك" (this house is your house)
+      is a classic expression of Arab hospitality that you will hear often.
+    examples:
+      - q: "غرفة النوم"
+        a: "Bedroom"
+        rel:
+          - ["غرفة-النوم", "Bedroom", "room name"]
+          - ["النوم-en", "sleep", "noun"]
+      - q: "المطبخ"
+        a: "Kitchen"
+        rel:
+          - ["المطبخ-en", "Kitchen", "room name"]
+      - q: "الحمام"
+        a: "Bathroom"
+        rel:
+          - ["الحمام-en", "Bathroom", "room name"]
+      - q: "غرفة الجلوس"
+        a: "Living room"
+        rel:
+          - ["غرفة-الجلوس-en", "Living room", "room name"]
+      - q: "الحديقة"
+        a: "Garden"
+        rel:
+          - ["الحديقة-en", "Garden", "outdoor area"]
+      - q: "الباب"
+        a: "Door"
+        rel:
+          - ["الباب-en", "Door", "part of the house"]
+  - title: "Talking About Family"
+    explanation: |
+      **Talking about family** is one of the most common topics when meeting someone new in the Arab world.
+      Asking about family shows genuine interest and respect. People often ask about your origins,
+      your siblings, and whether you are married — it is a sign of warmth, not intrusiveness.
+    examples:
+      - q: "عندي أخوان وأخت"
+        a: "I have two brothers and a sister"
+        rel:
+          - ["عندي-en", "I have", "possession expression"]
+          - ["أخوان-en", "two brothers", "dual form"]
+      - q: "هل أنت متزوج؟"
+        a: "Are you married?"
+        rel:
+          - ["متزوج-en", "married", "adjective"]
+      - q: "لدي طفلان"
+        a: "I have two children"
+        rel:
+          - ["لدي-en", "I have / I possess", "possession expression"]
+          - ["طفلان-en", "two children", "dual form"]
+      - q: "أسكن مع عائلتي"
+        a: "I live with my family"
+        rel:
+          - ["أسكن-en", "I live / I reside", "verb"]
+          - ["عائلتي-en", "my family", "noun with pronoun"]
+      - q: "البيت بيتك"
+        a: "This house is your house (You are very welcome)"
+        rel:
+          - ["البيت-بيتك-en", "This house is your house", "Arab hospitality expression"]

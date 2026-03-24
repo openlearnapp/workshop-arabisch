@@ -1,0 +1,94 @@
+version: 1
+number: 8
+title: "الطقس والطبيعة"
+description: "وصف الطقس والتحدث عن الطبيعة باللغة الألمانية"
+sections:
+  - title: "الطقس"
+    explanation: |
+      **الطقس** (das Wetter) من أكثر الموضوعات شيوعاً في المحادثات اليومية الألمانية.
+      الطقس في ألمانيا متغير كثيراً — قد تشهد أربعة فصول في يوم واحد أحياناً!
+      جملة "Wie ist das Wetter heute?" (كيف حال الطقس اليوم؟) ستستخدمها كثيراً.
+    examples:
+      - q: "Es ist heiß"
+        a: "الجو حار"
+        rel:
+          - ["heiß", "حار", "صفة"]
+      - q: "Es ist kalt"
+        a: "الجو بارد"
+        rel:
+          - ["kalt", "بارد", "صفة"]
+      - q: "Es regnet"
+        a: "تمطر / الجو ممطر"
+        rel:
+          - ["regnet", "تمطر", "فعل"]
+      - q: "Die Sonne scheint"
+        a: "الشمس مشرقة"
+        rel:
+          - ["Sonne", "الشمس", "اسم"]
+          - ["scheint", "تشرق / تسطع", "فعل"]
+      - q: "Es schneit"
+        a: "تثلج / يتساقط الثلج"
+        rel:
+          - ["schneit", "يثلج / يتساقط الثلج", "فعل"]
+      - q: "Die Luftfeuchtigkeit ist hoch"
+        a: "الرطوبة عالية"
+        rel:
+          - ["Luftfeuchtigkeit", "الرطوبة", "اسم"]
+          - ["hoch", "عالٍ / مرتفع", "صفة"]
+  - title: "الفصول والمناخ"
+    explanation: |
+      **الفصول الأربعة** (die vier Jahreszeiten) واضحة جداً في ألمانيا.
+      الشتاء بارد وقد يكون ثلجياً، والصيف دافئ ولطيف في الغالب.
+      فصل الربيع والخريف يتميزان بجمالهما الطبيعي الرائع.
+    examples:
+      - q: "der Sommer"
+        a: "الصيف"
+        rel:
+          - ["der-Sommer", "الصيف", "فصل"]
+      - q: "der Winter"
+        a: "الشتاء"
+        rel:
+          - ["der-Winter", "الشتاء", "فصل"]
+      - q: "der Frühling"
+        a: "الربيع"
+        rel:
+          - ["der-Frühling", "الربيع", "فصل"]
+      - q: "der Herbst"
+        a: "الخريف"
+        rel:
+          - ["der-Herbst", "الخريف", "فصل"]
+      - q: "das trockene Klima"
+        a: "المناخ الجاف"
+        rel:
+          - ["Klima", "المناخ", "اسم"]
+          - ["trockene", "جاف", "صفة"]
+  - title: "الطبيعة والمناظر الطبيعية"
+    explanation: |
+      **الطبيعة الألمانية** (die deutsche Natur) جميلة ومتنوعة — غابات كثيفة، وأنهار عميقة، وجبال خضراء.
+      غابة البلاك فورست (der Schwarzwald) والراين (der Rhein) من أشهر المعالم الطبيعية.
+      الألمان يحبون المشي في الطبيعة (Wandern) كثيراً في أوقات فراغهم.
+    examples:
+      - q: "der Wald"
+        a: "الغابة"
+        rel:
+          - ["der-Wald", "الغابة", "تضاريس"]
+      - q: "das Meer"
+        a: "البحر"
+        rel:
+          - ["das-Meer", "البحر", "مسطح مائي"]
+      - q: "der Berg"
+        a: "الجبل"
+        rel:
+          - ["der-Berg", "الجبل", "تضاريس"]
+      - q: "der Fluss"
+        a: "النهر"
+        rel:
+          - ["der-Fluss", "النهر", "مسطح مائي"]
+      - q: "der Baum"
+        a: "الشجرة"
+        rel:
+          - ["der-Baum", "الشجرة", "نبات"]
+      - q: "die Blume"
+        a: "الزهرة"
+        rel:
+          - ["die-Blume", "الزهرة", "نبات"]

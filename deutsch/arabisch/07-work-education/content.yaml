@@ -1,0 +1,88 @@
+version: 1
+number: 7
+title: "Arbeit und Bildung"
+description: "Berufe, Arbeitsalltag und Bildung auf Arabisch — für Gespräche über das Berufsleben"
+sections:
+  - title: "Berufe"
+    explanation: |
+      **Berufe** (المهن - al-mihan) sind ein wichtiges Gesprächsthema beim Kennenlernen.
+      Im Arabischen wird das Geschlecht oft durch die Endung markiert — z.B. „مدرِّس" (Lehrer, männlich) und „مدرِّسة" (Lehrerin, weiblich).
+      Bildung und Arbeit genießen in der arabischen Gesellschaft hohes Ansehen.
+    examples:
+      - q: "طبيب"
+        a: "Arzt"
+        rel:
+          - ["طبيب", "Arzt", "Berufsbezeichnung"]
+      - q: "مهندس"
+        a: "Ingenieur"
+        rel:
+          - ["مهندس", "Ingenieur", "Berufsbezeichnung"]
+      - q: "مدرِّس"
+        a: "Lehrer"
+        rel:
+          - ["مدرِّس", "Lehrer", "Berufsbezeichnung"]
+      - q: "محامي"
+        a: "Anwalt"
+        rel:
+          - ["محامي", "Anwalt", "Berufsbezeichnung"]
+      - q: "تاجر"
+        a: "Kaufmann / Händler"
+        rel:
+          - ["تاجر", "Kaufmann", "Berufsbezeichnung"]
+      - q: "ممرِّض"
+        a: "Krankenpfleger"
+        rel:
+          - ["ممرِّض", "Krankenpfleger", "Berufsbezeichnung"]
+  - title: "Am Arbeitsplatz"
+    explanation: |
+      **Der Arbeitsplatz** (مكان العمل - makān al-ʿamal) ist ein zentraler Teil des täglichen Lebens.
+      Diese Ausdrücke helfen Ihnen, grundlegende Gespräche über Arbeit und Büroalltag auf Arabisch zu führen.
+    examples:
+      - q: "أعمل في شركة"
+        a: "Ich arbeite in einem Unternehmen"
+        rel:
+          - ["أعمل", "ich arbeite", "Verb"]
+          - ["شركة", "Unternehmen / Firma", "Substantiv"]
+      - q: "مكتب"
+        a: "Büro / Schreibtisch"
+        rel:
+          - ["مكتب", "Büro / Schreibtisch", "Arbeitsplatz"]
+      - q: "اجتماع"
+        a: "Besprechung / Treffen"
+        rel:
+          - ["اجتماع", "Besprechung / Meeting", "Substantiv"]
+      - q: "راتب"
+        a: "Gehalt"
+        rel:
+          - ["راتب", "Gehalt / Lohn", "Substantiv"]
+      - q: "إجازة"
+        a: "Urlaub / Ferien"
+        rel:
+          - ["إجازة", "Urlaub / Ferien", "Substantiv"]
+  - title: "Bildung und Schule"
+    explanation: |
+      **Bildung** (التعليم - at-taʿlīm) hat in der arabischen Kultur traditionell einen sehr hohen Stellenwert.
+      Der erste Satz des Korans ist „اقرأ" (lies!), was die Bedeutung des Lernens unterstreicht.
+      Hier sind die wichtigsten Begriffe rund um Schule und Studium.
+    examples:
+      - q: "مدرسة"
+        a: "Schule"
+        rel:
+          - ["مدرسة", "Schule", "Bildungseinrichtung"]
+      - q: "جامعة"
+        a: "Universität"
+        rel:
+          - ["جامعة", "Universität", "Bildungseinrichtung"]
+      - q: "طالب"
+        a: "Student / Schüler"
+        rel:
+          - ["طالب", "Student / Schüler", "Person"]
+      - q: "أدرس اللغة العربية"
+        a: "Ich lerne Arabisch"
+        rel:
+          - ["أدرس", "ich studiere / lerne", "Verb"]
+          - ["اللغة العربية", "die arabische Sprache", "Substantiv"]
+      - q: "شهادة"
+        a: "Abschluss / Zeugnis"
+        rel:
+          - ["شهادة", "Abschluss / Zeugnis", "Substantiv"]
