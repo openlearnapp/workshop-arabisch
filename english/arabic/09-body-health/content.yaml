@@ -1,0 +1,97 @@
+version: 1
+number: 9
+title: "Body and Health"
+description: "Body parts, health, and doctor visits — essential vocabulary for health situations in Arabic"
+sections:
+  - title: "Body Parts"
+    explanation: |
+      **Body parts** (أجزاء الجسم - ajzāʾ al-jism) are crucial vocabulary, especially when explaining
+      where something hurts. In Arabic, the body is often described poetically — the heart (القلب)
+      represents not just the organ but also emotions, love, and the core of a person.
+    examples:
+      - q: "الرأس"
+        a: "Head"
+        rel:
+          - ["الرأس-en", "Head", "body part"]
+      - q: "العين"
+        a: "Eye"
+        rel:
+          - ["العين-en", "Eye", "body part"]
+      - q: "الأذن"
+        a: "Ear"
+        rel:
+          - ["الأذن-en", "Ear", "body part"]
+      - q: "الفم"
+        a: "Mouth"
+        rel:
+          - ["الفم-en", "Mouth", "body part"]
+      - q: "اليد"
+        a: "Hand"
+        rel:
+          - ["اليد-en", "Hand", "body part"]
+      - q: "القلب"
+        a: "Heart"
+        rel:
+          - ["القلب-en", "Heart", "organ / symbol of emotions"]
+      - q: "الظهر"
+        a: "Back"
+        rel:
+          - ["الظهر-en", "Back", "body part"]
+  - title: "At the Doctor"
+    explanation: |
+      **At the doctor's** (عند الطبيب - ʿinda aṭ-ṭabīb), knowing the right words can make a real difference.
+      In Arab countries it is common to visit a general practitioner first, who then refers you to specialists
+      if needed. Pharmacists (صيدلاني) are also highly trusted and often consulted directly for minor ailments.
+    examples:
+      - q: "أشعر بألم"
+        a: "I am in pain / I feel pain"
+        rel:
+          - ["أشعر-en", "I feel / I sense", "verb"]
+          - ["ألم-en", "pain", "noun"]
+      - q: "عندي حمى"
+        a: "I have a fever"
+        rel:
+          - ["عندي-en2", "I have", "possession expression"]
+          - ["حمى-en", "fever", "symptom"]
+      - q: "أحتاج طبيباً"
+        a: "I need a doctor"
+        rel:
+          - ["أحتاج-en", "I need", "verb"]
+          - ["طبيباً-en", "a doctor", "accusative"]
+      - q: "أين أقرب صيدلية؟"
+        a: "Where is the nearest pharmacy?"
+        rel:
+          - ["أقرب-en", "nearest", "superlative"]
+          - ["صيدلية-en", "pharmacy", "noun"]
+      - q: "دواء"
+        a: "Medicine / Medication"
+        rel:
+          - ["دواء-en", "medicine / medication", "noun"]
+  - title: "Health and Wellbeing"
+    explanation: |
+      **Health** (الصحة - aṣ-ṣiḥḥa) is celebrated in Arabic culture. After a meal, people wish each other
+      "صحتين!" (double health!), and "سلامتك" (your safety / get well soon) is said to someone who is sick.
+      These expressions reveal how deeply wellbeing is woven into everyday Arabic interaction.
+    examples:
+      - q: "أنا بصحة جيدة"
+        a: "I am healthy / I am in good health"
+        rel:
+          - ["بصحة-en", "in health / healthy", "state expression"]
+          - ["جيدة-en", "good", "adjective"]
+      - q: "أشعر بتعب"
+        a: "I feel tired"
+        rel:
+          - ["تعب-en", "tiredness / fatigue", "noun"]
+      - q: "سلامتك"
+        a: "Get well soon (your safety)"
+        rel:
+          - ["سلامتك-en", "your safety / get well soon", "well-wishing expression"]
+      - q: "صحتين"
+        a: "Enjoy your meal / Cheers (double health)"
+        rel:
+          - ["صحتين-en", "double health (used after meals)", "cultural expression"]
+      - q: "الرياضة مفيدة للصحة"
+        a: "Exercise is good for your health"
+        rel:
+          - ["الرياضة-en", "sport / exercise", "noun"]
+          - ["مفيدة-en", "useful / beneficial", "adjective"]

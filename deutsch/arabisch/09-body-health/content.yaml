@@ -1,0 +1,97 @@
+version: 1
+number: 9
+title: "Körper und Gesundheit"
+description: "Körperteile, Befinden und Arztbesuche — wichtiges Vokabular für Gesundheitssituationen auf Arabisch"
+sections:
+  - title: "Körperteile"
+    explanation: |
+      **Körperteile** (أجزاء الجسم - ajzāʾ al-jism) zu kennen ist besonders wichtig, wenn man beim Arzt
+      erklären muss, wo es wehtut. Im Arabischen wird der Körper oft poetisch beschrieben —
+      das Herz (القلب) steht nicht nur für das Organ, sondern auch für Gefühle und Liebe.
+    examples:
+      - q: "الرأس"
+        a: "der Kopf"
+        rel:
+          - ["الرأس", "der Kopf", "Körperteil"]
+      - q: "العين"
+        a: "das Auge"
+        rel:
+          - ["العين", "das Auge", "Körperteil"]
+      - q: "الأذن"
+        a: "das Ohr"
+        rel:
+          - ["الأذن", "das Ohr", "Körperteil"]
+      - q: "الفم"
+        a: "der Mund"
+        rel:
+          - ["الفم", "der Mund", "Körperteil"]
+      - q: "اليد"
+        a: "die Hand"
+        rel:
+          - ["اليد", "die Hand", "Körperteil"]
+      - q: "القلب"
+        a: "das Herz"
+        rel:
+          - ["القلب", "das Herz", "Organ / Symbol für Gefühle"]
+      - q: "الظهر"
+        a: "der Rücken"
+        rel:
+          - ["الظهر", "der Rücken", "Körperteil"]
+  - title: "Beim Arzt"
+    explanation: |
+      **Beim Arzt** (عند الطبيب - ʿinda aṭ-ṭabīb) die richtigen Wörter zu kennen, kann entscheidend sein.
+      In arabischen Ländern ist es üblich, zuerst einen Allgemeinmediziner aufzusuchen,
+      der dann bei Bedarf an Fachärzte überweist.
+    examples:
+      - q: "أشعر بألم"
+        a: "Ich habe Schmerzen"
+        rel:
+          - ["أشعر", "ich fühle / spüre", "Verb"]
+          - ["ألم", "Schmerz", "Substantiv"]
+      - q: "عندي حمى"
+        a: "Ich habe Fieber"
+        rel:
+          - ["عندي", "ich habe", "Besitzausdruck"]
+          - ["حمى", "Fieber", "Symptom"]
+      - q: "أحتاج طبيباً"
+        a: "Ich brauche einen Arzt"
+        rel:
+          - ["أحتاج", "ich brauche", "Verb"]
+          - ["طبيباً", "einen Arzt", "Akkusativ"]
+      - q: "أين أقرب صيدلية؟"
+        a: "Wo ist die nächste Apotheke?"
+        rel:
+          - ["أقرب", "nächste / nächstgelegene", "Superlativ"]
+          - ["صيدلية", "Apotheke", "Substantiv"]
+      - q: "دواء"
+        a: "Medikament"
+        rel:
+          - ["دواء", "Medikament / Medizin", "Substantiv"]
+  - title: "Gesundheit und Wohlbefinden"
+    explanation: |
+      **Gesundheit** (الصحة - aṣ-ṣiḥḥa) wird im Arabischen mit dem Ausruf „صحتين!" (doppelte Gesundheit!)
+      nach dem Essen gewünscht. Dieser Ausdruck zeigt, wie wichtig das Wohlbefinden im arabischen Alltag ist.
+      „سلامتك" (deine Sicherheit / Gute Besserung) sagt man zu jemandem, der krank ist.
+    examples:
+      - q: "أنا بصحة جيدة"
+        a: "Ich bin gesund"
+        rel:
+          - ["بصحة", "bei Gesundheit / gesund", "Zustandsangabe"]
+          - ["جيدة", "gut", "Adjektiv"]
+      - q: "أشعر بتعب"
+        a: "Ich fühle mich müde"
+        rel:
+          - ["تعب", "Müdigkeit / Erschöpfung", "Substantiv"]
+      - q: "سلامتك"
+        a: "Gute Besserung"
+        rel:
+          - ["سلامتك", "deine Sicherheit / Gute Besserung", "Wunschformel"]
+      - q: "صحتين"
+        a: "Guten Appetit / Zum Wohl"
+        rel:
+          - ["صحتين", "doppelte Gesundheit (Mahlzeitengruß)", "kultureller Ausdruck"]
+      - q: "الرياضة مفيدة للصحة"
+        a: "Sport ist gut für die Gesundheit"
+        rel:
+          - ["الرياضة", "Sport", "Substantiv"]
+          - ["مفيدة", "nützlich / gut", "Adjektiv"]

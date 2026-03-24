@@ -1,0 +1,94 @@
+version: 1
+number: 8
+title: "Wetter und Natur"
+description: "Das Wetter beschreiben und über die Natur sprechen — von der Wüste bis zum Meer auf Arabisch"
+sections:
+  - title: "Das Wetter"
+    explanation: |
+      **Das Wetter** (الطقس - aṭ-ṭaqs) ist ein universelles Gesprächsthema.
+      In der arabischen Welt variiert das Klima stark — von der heißen Wüste Sahara bis zu den kühlen Bergregionen des Libanon.
+      Der Satz „الجو حار جداً" (es ist sehr heiß) ist in arabischen Sommermonaten besonders häufig zu hören.
+    examples:
+      - q: "الجو حار"
+        a: "Es ist heiß (Das Wetter ist heiß)"
+        rel:
+          - ["الجو", "das Wetter / die Luft", "Substantiv"]
+          - ["حار", "heiß", "Adjektiv"]
+      - q: "الجو بارد"
+        a: "Es ist kalt"
+        rel:
+          - ["بارد", "kalt", "Adjektiv"]
+      - q: "تمطر"
+        a: "Es regnet"
+        rel:
+          - ["تمطر", "es regnet", "Verb"]
+      - q: "الشمس مشرقة"
+        a: "Die Sonne scheint"
+        rel:
+          - ["الشمس", "die Sonne", "Substantiv"]
+          - ["مشرقة", "strahlend / scheinend", "Adjektiv"]
+      - q: "عاصفة رملية"
+        a: "Sandsturm"
+        rel:
+          - ["عاصفة", "Sturm", "Wetterereignis"]
+          - ["رملية", "aus Sand / sandig", "Adjektiv"]
+      - q: "الرطوبة عالية"
+        a: "Die Luftfeuchtigkeit ist hoch"
+        rel:
+          - ["الرطوبة", "die Luftfeuchtigkeit", "Substantiv"]
+          - ["عالية", "hoch", "Adjektiv"]
+  - title: "Jahreszeiten und Klima"
+    explanation: |
+      **Die Jahreszeiten** (الفصول - al-fuṣūl) prägen das Leben in der arabischen Welt unterschiedlich stark.
+      In vielen Golfstaaten gibt es kaum sichtbare Jahreszeiten, während in der Levante (Syrien, Libanon) alle vier Jahreszeiten deutlich spürbar sind.
+    examples:
+      - q: "الصيف"
+        a: "der Sommer"
+        rel:
+          - ["الصيف", "der Sommer", "Jahreszeit"]
+      - q: "الشتاء"
+        a: "der Winter"
+        rel:
+          - ["الشتاء", "der Winter", "Jahreszeit"]
+      - q: "الربيع"
+        a: "der Frühling"
+        rel:
+          - ["الربيع", "der Frühling", "Jahreszeit"]
+      - q: "الخريف"
+        a: "der Herbst"
+        rel:
+          - ["الخريف", "der Herbst", "Jahreszeit"]
+      - q: "المناخ الجاف"
+        a: "das trockene Klima"
+        rel:
+          - ["المناخ", "das Klima", "Substantiv"]
+          - ["الجاف", "trocken", "Adjektiv"]
+  - title: "Natur und Landschaft"
+    explanation: |
+      **Die Natur** (الطبيعة - aṭ-ṭabīʿa) der arabischen Welt ist vielfältig — Wüsten, Gebirge, fruchtbare Täler und lange Küsten.
+      Der Nil, das Mittelmeer und die Wüste Sahara sind prägende Landschaften, die tief in der arabischen Kultur und Sprache verwurzelt sind.
+    examples:
+      - q: "الصحراء"
+        a: "die Wüste"
+        rel:
+          - ["الصحراء", "die Wüste", "Landschaftsform"]
+      - q: "البحر"
+        a: "das Meer"
+        rel:
+          - ["البحر", "das Meer", "Gewässer"]
+      - q: "الجبل"
+        a: "der Berg"
+        rel:
+          - ["الجبل", "der Berg", "Landschaftsform"]
+      - q: "النهر"
+        a: "der Fluss"
+        rel:
+          - ["النهر", "der Fluss", "Gewässer"]
+      - q: "الشجرة"
+        a: "der Baum"
+        rel:
+          - ["الشجرة", "der Baum", "Pflanze"]
+      - q: "نخلة"
+        a: "Palme (Dattelpalme)"
+        rel:
+          - ["نخلة", "Palme / Dattelpalme", "Symbol arabischer Länder"]

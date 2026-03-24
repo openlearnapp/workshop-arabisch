@@ -1,0 +1,89 @@
+version: 1
+number: 7
+title: "Work and Education"
+description: "Professions, the workplace, and education in Arabic — for conversations about career and learning"
+sections:
+  - title: "Professions"
+    explanation: |
+      **Professions** (المهن - al-mihan) are a key topic when getting to know someone.
+      In Arabic, gender is often marked through word endings — for example, "مدرِّس" (male teacher)
+      and "مدرِّسة" (female teacher). Education and professional achievement are highly respected in Arab society.
+    examples:
+      - q: "طبيب"
+        a: "Doctor"
+        rel:
+          - ["طبيب-en", "Doctor", "profession"]
+      - q: "مهندس"
+        a: "Engineer"
+        rel:
+          - ["مهندس-en", "Engineer", "profession"]
+      - q: "مدرِّس"
+        a: "Teacher"
+        rel:
+          - ["مدرِّس-en", "Teacher", "profession"]
+      - q: "محامي"
+        a: "Lawyer"
+        rel:
+          - ["محامي-en", "Lawyer", "profession"]
+      - q: "تاجر"
+        a: "Merchant / Trader"
+        rel:
+          - ["تاجر-en", "Merchant / Trader", "profession"]
+      - q: "ممرِّض"
+        a: "Nurse"
+        rel:
+          - ["ممرِّض-en", "Nurse", "profession"]
+  - title: "At the Workplace"
+    explanation: |
+      **The workplace** (مكان العمل - makān al-ʿamal) is central to daily life.
+      These expressions will help you have basic conversations about work and office life in Arabic.
+      In many Arab countries, strong personal relationships at the workplace are just as important as skills.
+    examples:
+      - q: "أعمل في شركة"
+        a: "I work in a company"
+        rel:
+          - ["أعمل-en", "I work", "verb"]
+          - ["شركة-en", "company / firm", "noun"]
+      - q: "مكتب"
+        a: "Office / Desk"
+        rel:
+          - ["مكتب-en", "Office / Desk", "workplace"]
+      - q: "اجتماع"
+        a: "Meeting"
+        rel:
+          - ["اجتماع-en", "Meeting", "noun"]
+      - q: "راتب"
+        a: "Salary"
+        rel:
+          - ["راتب-en", "Salary / Wage", "noun"]
+      - q: "إجازة"
+        a: "Holiday / Vacation"
+        rel:
+          - ["إجازة-en", "Holiday / Vacation", "noun"]
+  - title: "Education and School"
+    explanation: |
+      **Education** (التعليم - at-taʿlīm) has always been deeply valued in Arab culture.
+      The very first word revealed in the Quran is "اقرأ" (iqraʾ — read!), reflecting the importance of learning.
+      Here are the most important words related to school and university.
+    examples:
+      - q: "مدرسة"
+        a: "School"
+        rel:
+          - ["مدرسة-en", "School", "educational institution"]
+      - q: "جامعة"
+        a: "University"
+        rel:
+          - ["جامعة-en", "University", "educational institution"]
+      - q: "طالب"
+        a: "Student / Pupil"
+        rel:
+          - ["طالب-en", "Student / Pupil", "person"]
+      - q: "أدرس اللغة العربية"
+        a: "I am studying Arabic"
+        rel:
+          - ["أدرس-en", "I study / I learn", "verb"]
+          - ["اللغة-العربية-en", "the Arabic language", "noun"]
+      - q: "شهادة"
+        a: "Degree / Certificate"
+        rel:
+          - ["شهادة-en", "Degree / Certificate", "noun"]

@@ -1,0 +1,91 @@
+version: 1
+number: 10
+title: "Feelings and Opinions"
+description: "Expressing emotions and sharing opinions — for deeper conversations in Arabic"
+sections:
+  - title: "Feelings and Emotions"
+    explanation: |
+      **Feelings** (المشاعر - al-mashāʿir) are expressed openly in Arab culture, and Arabic is a remarkably
+      rich language for emotions. There are many words for love, longing, and joy.
+      "حبيبي" (my beloved / my dear) is one of the most affectionate everyday expressions you will encounter.
+    examples:
+      - q: "أنا سعيد"
+        a: "I am happy"
+        rel:
+          - ["سعيد-en", "happy / glad", "adjective"]
+      - q: "أنا حزين"
+        a: "I am sad"
+        rel:
+          - ["حزين-en", "sad", "adjective"]
+      - q: "أنا خائف"
+        a: "I am scared / afraid"
+        rel:
+          - ["خائف-en", "scared / afraid", "adjective"]
+      - q: "أنا متحمس"
+        a: "I am excited / enthusiastic"
+        rel:
+          - ["متحمس-en", "excited / enthusiastic", "adjective"]
+      - q: "أشعر بالحنين"
+        a: "I feel nostalgic / homesick"
+        rel:
+          - ["الحنين-en", "nostalgia / longing / homesickness", "deep Arabic feeling"]
+      - q: "أحبك"
+        a: "I love you"
+        rel:
+          - ["أحبك-en", "I love you", "expression of love"]
+  - title: "Expressing Opinions"
+    explanation: |
+      **Sharing an opinion** (إبداء الرأي - ibdāʾ ar-raʾy) is an important communication skill.
+      In Arabic conversation, it is polite to acknowledge what the other person said before offering a different view.
+      Phrases like "في رأيي" (in my opinion) introduce opinions respectfully.
+    examples:
+      - q: "في رأيي"
+        a: "In my opinion"
+        rel:
+          - ["في-رأيي-en", "in my opinion", "opinion expression"]
+          - ["رأيي-en", "my opinion", "noun with pronoun"]
+      - q: "أعتقد أن..."
+        a: "I think that..."
+        rel:
+          - ["أعتقد-en", "I think / I believe", "verb"]
+      - q: "أوافق"
+        a: "I agree"
+        rel:
+          - ["أوافق-en", "I agree", "verb"]
+      - q: "لا أوافق"
+        a: "I disagree"
+        rel:
+          - ["لا-أوافق-en", "I disagree", "negation"]
+      - q: "هذا صحيح"
+        a: "That is correct / That is true"
+        rel:
+          - ["صحيح-en", "correct / true", "adjective"]
+  - title: "Preferences and Wishes"
+    explanation: |
+      **Preferences and wishes** connect people across cultures. "إن شاء الله" (God willing / hopefully)
+      is perhaps the most recognized Arabic expression worldwide. It reflects a deep philosophical
+      outlook on life and is used in many contexts — from serious to lighthearted.
+    examples:
+      - q: "أحب القهوة"
+        a: "I like coffee"
+        rel:
+          - ["أحب-en", "I like / I love", "verb"]
+          - ["القهوة-en", "coffee", "drink"]
+      - q: "لا أحب الحر"
+        a: "I don't like the heat"
+        rel:
+          - ["لا-أحب-en", "I don't like", "negation"]
+          - ["الحر-en", "the heat", "noun"]
+      - q: "أفضِّل..."
+        a: "I prefer..."
+        rel:
+          - ["أفضِّل-en", "I prefer", "verb"]
+      - q: "أتمنى أن أسافر"
+        a: "I wish I could travel"
+        rel:
+          - ["أتمنى-en", "I wish / I hope", "verb"]
+          - ["أسافر-en", "I travel", "verb"]
+      - q: "إن شاء الله"
+        a: "God willing / Hopefully"
+        rel:
+          - ["إن-شاء-الله-en", "God willing", "key cultural expression"]

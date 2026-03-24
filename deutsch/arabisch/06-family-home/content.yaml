@@ -1,0 +1,97 @@
+version: 1
+number: 6
+title: "Familie und Zuhause"
+description: "Wichtige Begriffe rund um Familie, Verwandtschaft und das Leben zu Hause auf Arabisch"
+sections:
+  - title: "Familienmitglieder"
+    explanation: |
+      **Die Familie** (العائلة - al-ʿāʾila) hat im arabischen Kulturkreis einen besonders hohen Stellenwert.
+      Arabisch unterscheidet bei manchen Verwandtschaftsbegriffen genau zwischen **väterlicher und mütterlicher Linie**.
+      Großfamilien leben oft zusammen oder in enger Nachbarschaft, und familiäre Bindungen sind sehr stark.
+    examples:
+      - q: "أب"
+        a: "Vater"
+        rel:
+          - ["أب", "Vater", "Familienbeziehung"]
+      - q: "أم"
+        a: "Mutter"
+        rel:
+          - ["أم", "Mutter", "Familienbeziehung"]
+      - q: "أخ"
+        a: "Bruder"
+        rel:
+          - ["أخ", "Bruder", "Geschwister"]
+      - q: "أخت"
+        a: "Schwester"
+        rel:
+          - ["أخت", "Schwester", "Geschwister"]
+      - q: "جد"
+        a: "Großvater"
+        rel:
+          - ["جد", "Großvater", "ältere Generation"]
+      - q: "جدة"
+        a: "Großmutter"
+        rel:
+          - ["جدة", "Großmutter", "ältere Generation"]
+  - title: "Zu Hause"
+    explanation: |
+      **Das Zuhause** (البيت - al-bayt) ist im arabischen Raum ein Ort der Gastfreundschaft.
+      Gäste werden herzlich empfangen und bewirtet — „البيت بيتك" (dieses Haus ist dein Haus)
+      ist ein typischer Ausdruck arabischer Gastfreundschaft.
+    examples:
+      - q: "غرفة النوم"
+        a: "Schlafzimmer"
+        rel:
+          - ["غرفة", "Zimmer", "Raumbezeichnung"]
+          - ["النوم", "das Schlafen", "Substantiv"]
+      - q: "المطبخ"
+        a: "Küche"
+        rel:
+          - ["المطبخ", "die Küche", "Raumbezeichnung"]
+      - q: "الحمام"
+        a: "Badezimmer"
+        rel:
+          - ["الحمام", "das Bad / Badezimmer", "Raumbezeichnung"]
+      - q: "غرفة الجلوس"
+        a: "Wohnzimmer"
+        rel:
+          - ["غرفة-الجلوس", "Wohnzimmer", "Raumbezeichnung"]
+          - ["الجلوس", "das Sitzen", "Substantiv"]
+      - q: "الحديقة"
+        a: "Garten"
+        rel:
+          - ["الحديقة", "der Garten", "Außenbereich"]
+      - q: "الباب"
+        a: "Tür"
+        rel:
+          - ["الباب", "die Tür", "Hausteil"]
+  - title: "Über die Familie sprechen"
+    explanation: |
+      **Familiengespräche** sind ein häufiges Thema beim ersten Kennenlernen.
+      Arabischsprechende fragen oft nach Herkunft und Familie — das zeigt echtes Interesse und Respekt.
+      Hier sind wichtige Sätze, um über die eigene Familie zu sprechen.
+    examples:
+      - q: "عندي أخوان وأخت"
+        a: "Ich habe zwei Brüder und eine Schwester"
+        rel:
+          - ["عندي", "ich habe", "Besitzausdruck"]
+          - ["أخوان", "zwei Brüder", "Dual-Form"]
+      - q: "هل أنت متزوج؟"
+        a: "Bist du verheiratet?"
+        rel:
+          - ["متزوج", "verheiratet", "Adjektiv"]
+          - ["هل", "Fragepartikel", "leitet Ja/Nein-Frage ein"]
+      - q: "لدي طفلان"
+        a: "Ich habe zwei Kinder"
+        rel:
+          - ["لدي", "ich habe / bei mir ist", "Besitzausdruck"]
+          - ["طفلان", "zwei Kinder", "Dual-Form"]
+      - q: "أسكن مع عائلتي"
+        a: "Ich wohne mit meiner Familie"
+        rel:
+          - ["أسكن", "ich wohne", "Verb"]
+          - ["عائلتي", "meine Familie", "Substantiv mit Pronomen"]
+      - q: "البيت بيتك"
+        a: "Dieses Haus ist dein Haus (Herzlich willkommen)"
+        rel:
+          - ["البيت-بيتك", "Dieses Haus ist dein Haus", "arabischer Gastfreundschaftsausdruck"]
